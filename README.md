@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jon!
 
-- 🔭 I’m currently working on: **[Twitch.TV/JFKingsley](https://twitch.tv/jfkingsley)**
+- 🔭 I’m currently working on: **[my Twitch channel](https://twitch.tv/jfkingsley)**
 - 💬 Ask me about **Reverse engineering hardware**
 - 📫 How to reach me: **[@jfkingsley](https://twitter.com/jfkingsley)**
 - 😄 Pronouns: **[he/him](http://pronoun.is/he/him)**
