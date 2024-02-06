@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Jon!
 
-- 🔭 I’m currently working on **[my Twitch channel](https://twitch.tv/jfkingsley)**
+- 🔭 I’m currently working on **[Railway](https://railway.app)**
 - 💬 Ask me about **Reverse engineering hardware**
-- 📫 How to reach me: **[@JFKingsley](https://twitter.com/jfkingsley)**
-- 😄 Pronouns: **[he/him](http://pronoun.is/he/him)**
-- ⚡ Fun fact: **I'm a semi-pro Musical Theatre performer**
+- 📫 How to reach me: **[kings.ly](https://kings.ly)**
+- 😄 Pronouns: **[he/they](http://pronoun.is/he/they)**
+- ⚡ Fun fact: **I like to cave often!**
